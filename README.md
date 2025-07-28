@@ -41,7 +41,6 @@ Blog Card design
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 
 ### What I learned
 
